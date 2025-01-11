@@ -40,10 +40,3 @@ O objetivo principal é criar uma simulação de código Morse para transmitir a
     - Coloque a placa BitDogLab em modo de boot pressionando o botão `BOOTSEL`.
     - Transfira o arquivo `.uf2` para a placa.
 
-## Contribuições
-
-Este repositório está aberto a contribuições. Sinta-se à vontade para fazer melhorias, sugerir novas funcionalidades ou corrigir eventuais problemas.
-
-## Licença
-
-Este projeto está sob a [MIT License](LICENSE).

@@ -1,4 +1,4 @@
-# Projeto Código Morse com Placa BitDogLab
+# Projeto Código Morse com Placa Raspberry Pi Pico 
 
 Este projeto tem como objetivo a implementação de um sistema de envio de sinais de código Morse utilizando a placa BitDogLab. O código foi desenvolvido e testado em ambientes simulados, com validação final no hardware real da placa.
 
